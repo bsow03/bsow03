@@ -6,7 +6,7 @@
 
 💡 Excited to explore new technologies and frameworks, I'm always up for a challenge! Check out some of my repositories below and join me on this exciting coding adventure.
 
-🚀 Let's connect and code our way to innovation! Reach out to me at [Your Email or Contact Information], or find me on [LinkedIn/Twitter/Other Social Media].
+🚀 Let's connect and code our way to innovation! Reach out to me at bsow2021@gmail.com, or find me on https://www.linkedin.com/in/bsow03/.
 
 Happy coding! ✨
 

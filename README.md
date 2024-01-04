@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Telly Sow
+### Hello there 👋, my name is Telly Sow
 #### Software Development
 ![Software Development](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*VMmvImch6VU5pc2VktY1uw.gif)
 

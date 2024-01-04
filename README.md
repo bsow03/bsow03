@@ -2,7 +2,6 @@
 #### Software Development
 ![Software Development](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*VMmvImch6VU5pc2VktY1uw.gif)
 
-### Hello there 👋
 
 👋 I'm Telly, and I'm on a thrilling journey to become a seasoned software developer. My passion lies in crafting useful and cool applications, utilizing my expertise in the dynamic realm of software development. Currently well-versed in Python and Java, I'm eagerly expanding my linguistic repertoire and strengthening my existing skills as I progress.
 

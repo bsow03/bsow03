@@ -13,7 +13,7 @@
 
 Happy coding! ✨
 
-Skills: PYTHON / JAVA / HTML / CSS
+**Skills**: PYTHON / JAVA / HTML / CSS
 
 - 🔭 I’m currently working on building my portfolio. 
 - 😄 Pronouns: He/Him 

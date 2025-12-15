@@ -1,11 +1,11 @@
-### Hello there 👋, my name is Telly Sow
+### Hey there 👋🏽
 #### Software Development
 ![Software Development](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*VMmvImch6VU5pc2VktY1uw.gif)
 
 
-👋 I'm Telly, and I'm on an exciting journey to becoming a versatile software developer. While my core expertise lies in Python and Java, I've recently ventured into web development with HTML, CSS, and JavaScript. I'm passionate about crafting useful and cool applications, constantly expanding my skill set as I grow.
+👋🏽 I'm Telly, and I'm on an exciting journey to becoming a versatile software developer. While my core expertise lies in Python and Java, I've recently ventured into web development with React, CSS and JavaScript. I'm passionate about crafting useful and cool applications, constantly expanding my skill set as I grow.
 
-🌐 I'm deeply curious about AI and machine learning and plan to explore tools like TensorFlow and PyTorch in the future. My current focus is on web development and full-stack projects, but I'm equally enthusiastic about exploring various other aspects of software development, including app development and cybersecurity.
+🌐 I'm deeply curious about AI and machine learning and plan to explore tools like TensorFlow and PyTorch in the future. My current focus is on web development and full-stack projects, but I am equally interested about exploring various other aspects of software development, including app development and cybersecurity.
 
 💡 I love tackling new challenges and learning new technologies, whether it's building intelligent systems, developing modern web applications, or exploring the latest in cybersecurity. Check out some of my repositories below and join me on this exciting coding journey.
 
@@ -13,7 +13,7 @@
 
 Happy coding! ✨
 
-🔭 I’m currently working on building my portfolio. 
+🔭 I’m currently working on building my website! 
 😄 Pronouns: He/Him
 
 

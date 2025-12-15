@@ -1,4 +1,4 @@
-### 👀 Check out [my most recent project!](scoreyourgoals.org)
+### 👀 Check out [my most recent project!](www.scoreyourgoals.org)
 
 Hey there! I'm Telly, and I am working on becoming a versatile self-taught software developer based in the US. While my core expertise lies in Python, I've recently ventured into web development with React, CSS and JavaScript. My current focus is on web development and full-stack projects, but I am equally interested about exploring various other aspects of software development, including app development, creating and programming artificially intelligent systems, and cybersecurity.
 

@@ -6,5 +6,5 @@ Hey! I'm Telly, and I am working on becoming a versatile developer based in the 
 
 🤝🏽 [Let's connect](https://www.linkedin.com/in/bsow03/).
 
-[![My GitHub stats](https://github-readme-stats-delta-five-97.vercel.app/api?username=bsow03&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats-delta-five-97.vercel.app/api?username=bsow03&count_private=true&include_all_commits=true&show_icons=true&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
 
